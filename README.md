@@ -1,6 +1,11 @@
-🎮 Arena de batalha pokemon - Projeto Full Stack 
+# 🎮 Arena de batalha pokemon - Projeto Full Stack
 
-Um dos meus primeiros projetos desenvolvendo Java, elaborei uma simulação de batalha Pokémon onde uma API REST analisa a dinamica e logica de combate e os dados, integrado a um frontend dinâmico.
+<div align="center">
+  <video src="https://github.com/Levy-Andrade/Batalha-Pok-mon-vers-o-1-.git/blob/main/pokedex-frontend/src/assets/demonstracao-arena-pokemon.mp4?raw=true" width="100%" controls muted autoplay loop></video>
+</div>
+
+## 🚀 Sobre o Projeto
+Um dos meus primeiros projetos desenvolvendo Java, elaborei uma simulação de batalha Pokémon onde uma API REST analisa a dinâmica e lógica de combate e os dados, integrado a um frontend dinâmico em React.
 
 Tecnologias Utilizadas
 
