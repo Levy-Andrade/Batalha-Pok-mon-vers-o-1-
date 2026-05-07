@@ -1,7 +1,7 @@
 # 🎮 Arena de batalha pokemon - Projeto Full Stack
 
 <div align="center">
-  <video src="https://github.com/Levy-Andrade/Batalha-Pok-mon-vers-o-1-.git/blob/main/pokedex-frontend/src/assets/demonstracao-arena-pokemon.mp4?raw=true" width="100%" controls muted autoplay loop></video>
+  <video src="https://github.com/Levy-Andrade/Batalha-Pok-mon-vers-o-1-/raw/main/pokedex-frontend/src/assets/demonstracao-arena-pokemon.mp4" width="100%" controls muted autoplay loop></video>
 </div>
 
 ## 🚀 Sobre o Projeto
