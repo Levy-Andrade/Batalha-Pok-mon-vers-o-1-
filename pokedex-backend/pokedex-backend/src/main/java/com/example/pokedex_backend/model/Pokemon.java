@@ -12,12 +12,11 @@ public class Pokemon {
     private Long id;
     
     private String nome;
-    private int hp;
+    private int hp = 100; 
     private int ataque;
     private int defesa;
-    private String imageUrl; // <-- FALTA ESSA LINHA
+    private String imageUrl; 
 
-    // Getters e Setters
     public Long getId() { return id; }
     public void setId(Long id) { this.id = id; }
 
@@ -33,7 +32,6 @@ public class Pokemon {
     public int getDefesa() { return defesa; }
     public void setDefesa(int defesa) { this.defesa = defesa; }
 
-    // ADICIONE ESSES DOIS ABAIXO:
     public String getImageUrl() { return imageUrl; }
     public void setImageUrl(String imageUrl) { this.imageUrl = imageUrl; }
 }
