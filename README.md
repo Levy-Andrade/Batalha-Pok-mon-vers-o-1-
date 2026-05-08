@@ -38,12 +38,6 @@ Desenvolvedor Full Stack apaixonado por tecnologia, interfaces modernas e desenv
 
 ---
 
-## 📸 Preview do Projeto
-
-<img width="100%" src="./preview.png" />
-
----
-
 ## 📂 Estrutura do Projeto
 
 ```bash
