@@ -1,27 +1,62 @@
-# 🎮 Arena de batalha pokemon - Projeto Full Stack
+# ⚔️ Pokémon Battle Arena
 
-<div align="center">
-  <video src="https://github.com/Levy-Andrade/Batalha-Pok-mon-vers-o-1-/raw/main/pokedex-frontend/src/assets/demonstracao-arena-pokemon.mp4" width="100%" controls muted autoplay loop></video>
-</div>
-
-## 🚀 Sobre o Projeto
-Um dos meus primeiros projetos desenvolvendo Java, elaborei uma simulação de batalha Pokémon onde uma API REST analisa a dinâmica e lógica de combate e os dados, integrado a um frontend dinâmico em React.
-
-Tecnologias Utilizadas
-
-Backend
-- Java
-- Spring Boot (API REST)
-- Spring Data JPA (Persistência de dados)
-
-Frontend
-- React.js
-- Node.js
-- Vite
-- CSS3 
-
-🕹️ O Projeto
-O sistema permite os Pokémons e executar comandos de ataque, calculando vitórias com base nos atributos de cada Pokémon. O foco principal foi praticar a comunicação entre Frontend e o Backend e os conceitos de Programação Orientada a Objetos (POO).
+Um sistema de batalha Pokémon desenvolvido com React + Vite, focado em simular batalhas estratégicas entre Pokémons com uma interface moderna, responsiva e interativa.
 
 ---
-Desenvolvido por **Levy Andrade**
+
+## 👨‍💻 Desenvolvido por
+
+### Levy Andrade
+
+Desenvolvedor Full Stack apaixonado por tecnologia, interfaces modernas e desenvolvimento de aplicações web.
+
+- GitHub: https://github.com/Levy-Andrade
+- LinkedIn: https://www.linkedin.com/in/levy-andrade/
+
+---
+
+## 🚀 Tecnologias Utilizadas
+
+- React
+- Vite
+- JavaScript
+- CSS3
+- HTML5
+
+---
+
+## 🎮 Funcionalidades
+
+✅ Sistema de batalha Pokémon  
+✅ Interface moderna e responsiva  
+✅ Cards interativos  
+✅ Efeitos visuais e animações  
+✅ Sistema de HP/Vida  
+✅ Seleção de Pokémons  
+✅ Layout inspirado em jogos Pokémon  
+✅ Estrutura organizada em componentes React  
+
+---
+
+## 📸 Preview do Projeto
+
+<img width="100%" src="https://via.placeholder.com/1200x600/121212/8257e5?text=Pokemon+Battle+Arena" />
+
+---
+
+## 📂 Estrutura do Projeto
+
+```bash
+src/
+│
+├── components/
+│   ├── BattleArena/
+│   ├── PokemonCard/
+│   ├── Modal/
+│   └── UI/
+│
+├── assets/
+│
+├── App.jsx
+├── main.jsx
+└── index.css
