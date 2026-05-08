@@ -40,7 +40,7 @@ Desenvolvedor Full Stack apaixonado por tecnologia, interfaces modernas e desenv
 
 ## 📸 Preview do Projeto
 
-<img width="100%" src="https://via.placeholder.com/1200x600/121212/8257e5?text=Pokemon+Battle+Arena" />
+<img width="100%" src="./preview.png" />
 
 ---
 
@@ -60,3 +60,82 @@ src/
 ├── App.jsx
 ├── main.jsx
 └── index.css
+```
+
+---
+
+## ⚙️ Como Rodar o Projeto
+
+### 1️⃣ Clone o repositório
+
+```bash
+git clone https://github.com/Levy-Andrade/Batalha-Pok-mon-vers-o-1-.git
+```
+
+---
+
+### 2️⃣ Entre na pasta do projeto
+
+```bash
+cd Batalha-Pok-mon-vers-o-1-
+```
+
+---
+
+### 3️⃣ Instale as dependências
+
+```bash
+npm install
+```
+
+---
+
+### 4️⃣ Execute o projeto
+
+```bash
+npm run dev
+```
+
+---
+
+## 🌐 Acesse no Navegador
+
+```bash
+http://localhost:5173
+```
+
+---
+
+## 🎯 Objetivo do Projeto
+
+Este projeto foi criado com foco em:
+
+- Evolução no desenvolvimento Front-End
+- Prática com React
+- Organização de componentes
+- Manipulação de estados
+- Criação de interfaces modernas
+- Desenvolvimento de projetos para portfólio profissional
+
+---
+
+## 📈 Melhorias Futuras
+
+- Sistema de ataques reais
+- Integração com API Pokémon
+- Sistema de níveis
+- Multiplayer online
+- Sons e efeitos especiais
+- Banco de dados para salvar progresso
+- Login de usuários
+
+---
+
+## 📬 Contato
+
+- LinkedIn: https://www.linkedin.com/in/levy-andrade/
+- GitHub: https://github.com/Levy-Andrade
+
+---
+
+# ⭐ Se gostou do projeto, deixe uma estrela no repositório!
