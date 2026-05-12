@@ -9,9 +9,9 @@ import java.util.HashMap;
 import java.util.Map;
 
 @RestController
-@CrossOrigin(origins = "*")
-@RequestMapping("/api/batalha")
-public class BattleController {
+@RequestMapping("/api")
+@CrossOrigin(origins = "*", allowedHeaders = "*") // <--- Use esta linha completa
+public class BatalhaController {
 
     @Autowired
     private BattleService battleService;

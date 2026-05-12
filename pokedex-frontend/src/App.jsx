@@ -32,7 +32,7 @@ const App = () => {
 
     try {
       setErroConexao(false); 
-      const response = await fetch('http://localhost:8080/api/batalha');
+      const response = await fetch('https://batalha-pok-mon-vers-o-1-production.up.railway.app/api/batalha');
       if (!response.ok) throw new Error();
 
       setShakePikachu(true);
